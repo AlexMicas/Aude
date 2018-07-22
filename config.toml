@@ -1,5 +1,5 @@
 baseURL = "http://alexmicas.github.io/Aude/"
 languageCode = "en-us"
 title = "Site of Aude"
-theme = "Nederburg"
+theme = "hugo-nederburg-theme"
 
